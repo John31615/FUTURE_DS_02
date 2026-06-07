@@ -71,7 +71,7 @@ average monthly charges by churn status, and key insights and recommendations.
 A detailed analytical view covering churn by payment method, senior citizen status, 
 online security, retention curve by tenure, and churn by partner and dependents.
 
-![Deep Dive Analysis](images/page2_deep_dive_analysis.png)
+![Deep Dive Analysis](images/Deep Dive Analysis.png)
 
 ## ▶️ How to Run the Notebook
 1. 📥 Clone this repository or download the project files locally
