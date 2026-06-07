@@ -65,13 +65,13 @@ An overview designed for business owners and executives, featuring KPI cards,
 churn by contract type, churn by tenure group, churn by internet service, 
 average monthly charges by churn status, and key insights and recommendations.
 
-![Executive Overview](images/Executive Overview.png)
+![Executive Overview](images/page1_executive_overview.png)
 
 ### 🔍 Page 2 — Deep Dive Analysis
 A detailed analytical view covering churn by payment method, senior citizen status, 
 online security, retention curve by tenure, and churn by partner and dependents.
 
-![Deep Dive Analysis](images/Deep Dive Analysis.png)
+![Deep Dive Analysis](images/page2_deep_dive_analysis.png)
 
 ## ▶️ How to Run the Notebook
 1. 📥 Clone this repository or download the project files locally
